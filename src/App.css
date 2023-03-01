@@ -6,3 +6,16 @@ body {
   justify-content: center;
   align-items: center;
 }
+header {
+  display:flex;
+  flex-direction:column;
+  background: url(img/cheese-r-us.png) center cover no-repeat; 
+  width:100%;
+  height:auto;
+}
+h1 {
+  height:100%;
+  width:100%;
+  padding-bottom:15%;
+  text-align: end;
+}
